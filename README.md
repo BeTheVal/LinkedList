@@ -5,7 +5,6 @@
  ![Texto alternativo]( https://sites.google.com/a/espe.edu.ec/programacion-ii/home/listas-enlazadas/lista.png?attredirects=0)
  ## ¿Cual es la diferencia entre LinkedList y ArrayList?
 La principal diferencia de las listas enlazadas es que el orden de los elementos enlazados puede ser diferente al orden de almacenamiento.  
-Una Linkedlist se puede usar como pila mientras que una ArrayList no.
  ![Texto alternativo](https://www.codenuclear.com/wp-content/uploads/2017/11/ArrayList_LinkedList.jpg)
 ## Algunos métodos usados de LinkedList
 https://prezi.com/5k4gs1vdwz_s/metodos-de-linkedlist/
